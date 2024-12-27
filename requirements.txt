@@ -1,0 +1,11 @@
+torch>=2.0
+torchdiffeq
+torchode
+vocos
+accelerate
+beartype
+einops>=0.6.1
+audiolm-pytorch>=1.2.28
+naturalspeech2-pytorch>=0.1.8
+gateloop-transformer>=0.2.4
+spear-tts-pytorch>=0.4.0
