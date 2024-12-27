@@ -1,7 +1,7 @@
 # Voicebox PyTorch
 
 <p align="center">
-  <img src="Voicebox.png" alt="Voicebox" style="display:block; margin:auto; width:720px;" />
+  <img src="Voicebox.png" alt="Voicebox" style="display:block; margin:auto; width:620px;" />
 </p>
 
 PyTorch implementation of Voicebox.
